@@ -4,3 +4,5 @@
 3:Danilo
 4:Claudio
 6:nani
+4:Ricardo
+5:Reijo
