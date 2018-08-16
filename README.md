@@ -6,3 +6,5 @@
 6:nani
 4:Ricardo
 5:Reijo
+6:Robertão
+7:Carlinhos
